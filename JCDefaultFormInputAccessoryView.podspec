@@ -7,6 +7,6 @@ Pod::Spec.new do |s|
   s.homepage     = 'https://github.com/jcoleman/JCDefaultFormInputAccessoryView'
   s.author       = { 'James Coleman' => 'jtc331@gmail.com' }
   s.requires_arc = true
-  s.source       = { :git => 'https://github.com/jcoleman/JCDefaultFormInputAccessoryView.git', :tag => '0.9.3' }
+  s.source       = { :git => 'https://github.com/arietis/JCDefaultFormInputAccessoryView.git', :tag => '0.9.3' }
   s.source_files = 'Library/*.{h,m}'
 end
